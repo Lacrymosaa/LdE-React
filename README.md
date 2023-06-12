@@ -5,5 +5,5 @@ Esse repositório será utilizado para as atividades do segundo bimestre, focada
 
 Agradecimentos para:
 - Vinicius L (Niussu), por todo apoio e companheirismo durante essa jornada de estudos.
-- Minha namorada, Bianca, que tem me dado todo amor e suporte necessário.
+- Bianca, uma grande amiga, que tem me dado todo o suporte necessário.
 - Priscila (prinoriko), por todas as boas risadas e abraços confortantes durante os momentos difíceis.
